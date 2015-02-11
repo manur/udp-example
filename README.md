@@ -1,3 +1,5 @@
 == Example of 2 peers connecting over UDP ==
 
-To run `node servers.js`
+2 clients infinitely echoing each other's messages.
+
+To run, `node servers.js`
