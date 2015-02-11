@@ -1,0 +1,7 @@
+{
+  name: "udp-example",
+  version: "1.0",
+  private: "true",
+  dependencies: {
+  }
+}
