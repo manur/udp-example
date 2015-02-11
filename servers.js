@@ -17,7 +17,7 @@ var server = function(port) {
         throw(err);
       }
     });
-  }, 1000);
+  });
 
   server.on('message', function(message, remote) {
     console.log(remote.address + ':' + remote.port + ' - ' + message);
